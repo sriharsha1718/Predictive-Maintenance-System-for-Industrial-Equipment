@@ -1,1 +1,1 @@
-# Predictive-Maintenance-System-for-Industrial-Equipment
+# Equipment Maintainenace and Failure Prediction
